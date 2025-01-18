@@ -1,2 +1,4 @@
 openai
 llama-index
+mkdocs
+mkdocs-material
